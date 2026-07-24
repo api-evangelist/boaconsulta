@@ -1,0 +1,20 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.boaconsulta.com/.well-known/
+host: https://www.boaconsulta.com
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+notes: >-
+  No /.well-known/ discovery documents are published on the www host. BoaConsulta
+  does publish a verbatim /llms.txt (see llms/boaconsulta-llms.txt). Absence of
+  well-known documents is valid, expected data for a consumer healthtech platform
+  with no public API surface.

@@ -1,19 +1,53 @@
 aid: boaconsulta
 name: BoaConsulta
-description: BoaConsulta is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  BoaConsulta is a Brazilian digital-health platform, founded in 2012 and part of
+  the Pixeon healthtech group, that connects patients, health professionals, and
+  institutions. It pairs a free B2C marketplace for booking in-person consultations,
+  teleconsultations, exams, and vaccinations with a full B2B/SaaS practice-management
+  system (150+ integrated modules covering smart scheduling, electronic health
+  records, telemedicine, financial management, TISS insurance billing, inventory,
+  and automated reminders). The platform reports more than 58,000 health
+  professionals, 1.7 million registered patients, and over 2 million appointments,
+  with LGPD-compliant end-to-end encryption and daily automated backups. It has no
+  public developer API; this profile is enriched from BoaConsulta's own public
+  surfaces (llms.txt, status page, help center, blog, and legal pages).
 url: https://raw.githubusercontent.com/api-evangelist/boaconsulta/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - 500-global
+x-parent-group: Pixeon
+x-legal-entity: G2D SERVIÇOS TECNOLÓGICOS SA
+x-cnpj: 15.224.465/0001-01
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://www.boaconsulta.com/img/logo-blue.png
 tags:
 - Company
+- Healthcare
+- Telemedicine
+- Appointment Booking
+- Marketplace
+- SaaS
+- Practice Management
+- Electronic Health Records
+- Brazil
+- LGPD
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +56,29 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://boaconsulta.com
+  url: https://www.boaconsulta.com
+- type: Blog
+  url: https://blog.boaconsulta.com/
+- type: Support
+  url: https://suporte.boaconsulta.com/pt-br/
+- type: StatusPage
+  url: https://status.boaconsulta.com/
+- type: Pricing
+  url: https://profissionais.boaconsulta.com/planos-e-precos/
+- type: Login
+  url: https://gestao.boaconsulta.com/login
+- type: TermsOfService
+  url: https://gestao.boaconsulta.com/termos
+- type: PrivacyPolicy
+  url: https://gestao.boaconsulta.com/politica-de-privacidade
+- type: LLMsTxt
+  url: llms/boaconsulta-llms.txt
+- type: WellKnown
+  url: well-known/boaconsulta-well-known.yml
+- type: DomainSecurity
+  url: security/boaconsulta-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

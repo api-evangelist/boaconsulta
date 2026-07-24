@@ -1,0 +1,44 @@
+# BoaConsulta
+
+> O BoaConsulta é uma plataforma brasileira de saúde digital que conecta pacientes, profissionais de saúde e instituições, unindo um marketplace de agendamento de consultas (presenciais e por telemedicina) a um sistema completo de gestão para consultórios e clínicas. Seu principal diferencial é integrar, em um único ecossistema, a captação de pacientes e a gestão clínica, com um dos melhores custos-benefícios do mercado.
+
+Fundado em 2012, o BoaConsulta faz parte do grupo Pixeon, uma das principais healthtechs do Brasil, com mais de 20 anos de experiência no setor de saúde. A plataforma reúne mais de 58 mil profissionais de saúde, mais de 1,7 milhão de pacientes cadastrados e mais de 2 milhões de agendamentos realizados. O modelo de negócio atua em duas frentes complementares: o marketplace (B2C), gratuito para pacientes, que permite buscar médicos por especialidade, convênio e localização e agendar online 24/7; e o software de gestão (B2B/SaaS), contratado por médicos, clínicas, operadoras de saúde e farmacêuticas, com mais de 150 módulos integrados à agenda inteligente, prontuário eletrônico, telemedicina, gestão financeira, faturamento TISS, estoque e lembretes automáticos – em planos a partir de R$ 67/mês por profissional. O sistema segue as normas da LGPD, com criptografia de ponta a ponta e backups automáticos diários.
+
+## Produtos para Profissionais e Clínicas
+- [Sistema para Clínicas e Consultórios](https://profissionais.boaconsulta.com/): Plataforma completa de gestão clínica e administrativa com mais de 150 módulos integrados
+- [Agendamento Online](https://profissionais.boaconsulta.com/agendamento-online/): Agenda disponível 24/7 no site e app do BoaConsulta, reduzindo faltas e preenchendo horários vagos
+- [Agenda Inteligente](https://profissionais.boaconsulta.com/agenda-medica/): Organização de horários, registro de atendimentos e lembretes automáticos por SMS e e-mail
+- [Prontuário Eletrônico](https://profissionais.boaconsulta.com/prontuario-eletronico/): Registro digital e seguro das informações clínicas, com prescrição digital integrada e dados criptografados
+- [Telemedicina](https://profissionais.boaconsulta.com/telemedicina/): Teleconsultas integradas ao prontuário, com pagamento online e conformidade com as normas do CFM
+- [Gestão Financeira](https://profissionais.boaconsulta.com/relatorio-financeiro/): Controle de ganhos, gastos, repasses e faturamento de guias de convênio (TISS)
+- [Gestão de Estoque](https://profissionais.boaconsulta.com/modulo-estoque/): Controle de insumos e processos administrativos do consultório ou clínica
+- [Lembretes no WhatsApp](https://profissionais.boaconsulta.com/lembretes-whatsapp/): Confirmações e lembretes automáticos de consulta para reduzir faltas
+- [Jornada Digital do Paciente – Pixeon +Saúde](https://profissionais.boaconsulta.com/pixeon-saude/): Site personalizado para a clínica divulgar serviços e receber agendamentos
+- [Planos e Preços](https://profissionais.boaconsulta.com/planos-e-precos/): Planos Essencial (a partir de R$ 67/mês), Controle (a partir de R$ 85/mês) e Personalizado (acima de 10 profissionais)
+- [Para Operadoras de Saúde](https://profissionais.boaconsulta.com/operadoras-de-saude/): Implantação de APS, redução de sinistralidade, gestão de crônicos e soluções whitelabel
+- [Para Farmacêuticas](https://profissionais.boaconsulta.com/farmaceuticas/): Soluções digitais para a indústria farmacêutica
+
+## Serviços para Pacientes (Marketplace)
+- [Marketplace BoaConsulta](https://www.boaconsulta.com/): Busca gratuita de médicos, dentistas e outros profissionais de saúde por especialidade, convênio e localização, com avaliações de pacientes e agendamento online de consultas presenciais, teleconsultas, exames e vacinas
+
+## Institucional
+- [Sobre o BoaConsulta](https://www.boaconsulta.com/sobre-nos): História, números e funcionamento da plataforma
+- [Contato](https://profissionais.boaconsulta.com/solicite-contato/): Canal para falar com a equipe comercial e tirar dúvidas
+- [Central de Ajuda](https://suporte.boaconsulta.com/pt-br/category/sou-profissional-da-saude-1rqrk7u/): Manual do sistema e suporte para profissionais
+- [Termos de Uso](https://gestao.boaconsulta.com/termos): Condições de uso da plataforma
+- [Política de Privacidade](https://gestao.boaconsulta.com/politica-de-privacidade): Tratamento de dados e conformidade com a LGPD
+
+## Conteúdo
+- [Guia do Consultório](https://guiaconsultorio.boaconsulta.com/): Blog para profissionais com artigos sobre gestão de clínicas, marketing médico, telemedicina e tecnologia na saúde
+- [Blog BoaConsulta](https://blog.boaconsulta.com/): Conteúdos sobre saúde, bem-estar e orientações para pacientes
+- [Materiais Educativos](https://profissionais.boaconsulta.com/materiais-educativos/): eBooks e guias gratuitos sobre gestão e digitalização na saúde
+
+## Informações Gerais
+- Site principal (pacientes): https://www.boaconsulta.com
+- Site para profissionais: https://profissionais.boaconsulta.com
+- Idioma principal: Português (Brasil)
+- Localização: São Paulo, SP, Brasil
+- Telefone comercial: (11) 3588-0990
+- E-mail: contato@boaconsulta.com
+- Grupo: Pixeon (healthtech brasileira com mais de 20 anos de mercado)
+- Aplicativos: BoaConsulta e BoaConsulta para Profissionais, disponíveis na App Store e no Google Play
