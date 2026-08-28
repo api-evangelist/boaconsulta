@@ -22,6 +22,17 @@ x-legal-entity: G2D SERVIÇOS TECNOLÓGICOS SA
 x-cnpj: 15.224.465/0001-01
 x-tier: stub
 x-tier-reason: portfolio-lead
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
